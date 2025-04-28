@@ -1,6 +1,6 @@
 google colab
 
-[title] (https://colab.research.google.com/drive/1uDPEHgjGKAj4olQMP00zWjZYbG_2YBL4?usp=sharing)
+[title](https://colab.research.google.com/drive/1uDPEHgjGKAj4olQMP00zWjZYbG_2YBL4?usp=sharing)
 
 
 
